@@ -54,4 +54,4 @@ def parse_midi(filename, csv_out="notes.csv"):
 
     return result
 
-notes = parse_midi("C:/Users/Aritra/Documents/CMU/16223/Blues10.mid", "drumnotes.csv")
+notes = parse_midi("<insert filename here>", "drumnotes.csv")
